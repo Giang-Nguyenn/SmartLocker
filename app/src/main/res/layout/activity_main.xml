@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/edt_codelogic"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="0"/>
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_tu1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 1"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 2"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 3"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 4"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 5"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu6"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 6"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu7"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 7"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_tu8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 8"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu9"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 9"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu10"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 10"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu11"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 11"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu12"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 12"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu13"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 13"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu14"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 14"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_tu15"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 15"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu16"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 16"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu17"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 17"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu18"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 18"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu19"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 19"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu20"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 20"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+        <Button
+            android:id="@+id/btn_tu21"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tủ 21"
+            android:background="@drawable/custom_button"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
